@@ -1,1 +1,0 @@
-https://www.geeksforgeeks.org/for-loop-java-important-points/#:~:text=In%20Java%2C%20multiple%20variables%20can,in%20the%20loop%20or%20not.
