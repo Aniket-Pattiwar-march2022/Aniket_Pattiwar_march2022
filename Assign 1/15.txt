@@ -1,0 +1,10 @@
+15. Write a java program to LCM of TWO given number
+(using GCD)
+
+step1: Start
+step2: take two numbers a,b
+step3: first find GCD of given two numbers
+ then use formula 
+LCM(a,b)=(a*b)/GCD(a,b)
+step4: print LCM(a,b)
+step5: End

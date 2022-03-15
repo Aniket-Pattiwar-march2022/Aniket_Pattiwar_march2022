@@ -1,0 +1,12 @@
+6. Write a Java Program to find whether given number is Leap year or NOT? 
+
+
+step1:start
+step2:input no. n
+step3:check if no. divided by 400 is equal to zero(n/400==0)
+then print Leap Year, 
+else divide this no. by 4,
+ if it equal to 0 (n/4==0)
+ print Leap Year,
+ else print Non-Leap Year
+step4:End

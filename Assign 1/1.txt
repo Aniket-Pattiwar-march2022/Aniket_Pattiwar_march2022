@@ -1,0 +1,9 @@
+1. Check the given number is EVEN or ODD
+
+
+step1: Start 
+step2:take a no.
+step3: Divide this no. by 2, using modulo operator 
+(n%2==0) and comapare it by 0
+step4: if yes print Even, else print Odd
+step5: End

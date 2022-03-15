@@ -1,0 +1,14 @@
+12. How to add two numbers without using the arithmetic operators in Java? 
+
+use xor operator 
+use binary addition in java ...search
+
+
+Start
+var a,b
+
+for(int i=1;i<=b;i++)
+{a++;
+}
+print a
+End

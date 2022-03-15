@@ -1,0 +1,22 @@
+8. Write a Java Program to print the digits of a Given Number. 
+
+
+step1:start
+step2:var temp=0
+step3:input 3 digit no. n
+
+temp=n
+n=n/100
+print n
+n=temp    
+n=n%100
+     
+n=n/10
+print n
+n=temp    
+n=n%10
+
+print n
+
+step4: End
+      

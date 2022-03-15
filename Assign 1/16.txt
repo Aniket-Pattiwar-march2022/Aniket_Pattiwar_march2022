@@ -1,0 +1,15 @@
+16. Write a java program to LCM of TWO given number
+ using Prime Factors method.
+
+step1:Start
+step:
+var n1,n2,lcm
+lcm=n1>n2?n1:n2
+
+while(true)
+if(lcm%n1==0 && lcm%n2==0)
+{ print lcm
+break }
+++lcm
+
+step: End

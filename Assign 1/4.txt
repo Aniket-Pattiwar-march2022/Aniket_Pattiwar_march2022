@@ -1,0 +1,12 @@
+4. Swap two numbers without using third variable approach.
+
+
+step: start
+step:input var a,b
+step:print a,b
+step:
+a=a+b
+b=a-b
+a=a-b
+step:print a,b
+step:end

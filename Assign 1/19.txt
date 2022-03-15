@@ -1,0 +1,10 @@
+19. To print the following series EVEN 
+number Series 2 4 6 8 10 12 14 16 .....
+
+
+step1:start
+step2: input a no. n
+step3:for(i=1;i<=n;i++)
+	if(i%2 == 0)
+	{print(" "+i+" ")}
+step4: end	 

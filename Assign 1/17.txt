@@ -1,0 +1,11 @@
+17. Check whether the Given Number is a Palindrome or NOT?
+
+
+step1: start 
+step2:take a no.
+step3: store the given no in temprory variable
+step4: Reverse the no.
+step5: compare the temprory variable by reversed no.
+step6: if both numbers are same, print pallindrome no.
+step7: else print non-pallindrome no.
+step8: End

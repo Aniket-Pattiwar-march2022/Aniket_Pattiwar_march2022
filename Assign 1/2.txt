@@ -1,0 +1,12 @@
+2. Write a Java Program to find the Factorial of given number.(by Loop)
+
+step: start
+step:declare  two variable and initialize it by 1, fact=1,i=1
+step: take a no. from user
+step:take while loop with condition (i<=n);
+inside while, use recursion  
+fact=fact*i
+and increment the i variable upto given no.
+i++
+step:print variable fact;
+step:End

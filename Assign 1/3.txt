@@ -1,0 +1,19 @@
+3. Write a Java Program to find the Factorial of given number, using Recursion.
+
+
+step1:  start
+step:  class Fact
+
+static int fact(int n)
+{ if(n==o)
+return 1;
+else
+return(n*fact(n-1));
+}
+
+step:  inside main
+int fact=1,n;
+input n;
+fact = fact(n);
+step:  print fact
+step:  End

@@ -1,0 +1,13 @@
+18. Write a Java Program to print all the Prime Factors of the Given Number.
+
+step1: start
+step2: input a no. n
+step3: n is divisible by 2, print 2 and divide n by 2, now n must be odd 
+step4:  Now start a loop from i = 3 to square root of n,
+ While i divides n, print i and 
+ divide n by i, 
+ increment i by 2 and continue
+step5:If n is a prime number and is greater than 2,
+ then n will not become 1 by above two steps,
+ So print n if it is greater than 2
+ step6 : End

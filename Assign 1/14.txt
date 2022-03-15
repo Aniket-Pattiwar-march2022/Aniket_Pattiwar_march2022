@@ -1,0 +1,9 @@
+14. Write a Java Program to find GCD of two given numbers.
+
+step: Start
+step: take 2 numbers a,b
+step: make a loop and divide this both numbers from 1 to
+ min(of a,b)
+step: if it divides both numbers then the no. stored in a variable 
+step: take highest no. from given stored value
+step: End

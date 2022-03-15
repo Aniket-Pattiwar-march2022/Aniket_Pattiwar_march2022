@@ -1,0 +1,16 @@
+11. Write a Java Program to find the smallest of 3 numbers (a,b,c) 
+
+
+
+step: Start
+step: input var a,b,c
+step: check 
+	if a>b
+	{ if b>c	print c
+	else print b
+	}
+	else 
+	{ if a>c   print c
+	else  print a
+	}
+step: End

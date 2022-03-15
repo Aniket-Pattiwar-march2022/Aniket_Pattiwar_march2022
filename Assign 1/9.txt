@@ -1,0 +1,10 @@
+9. Write a Java Program to print all the Factors of the Given number
+
+step1: Start
+step1:input n
+step1:for loop 
+	var i=1,i<=n,i++
+	if n%i==0
+	print i
+	
+step:End

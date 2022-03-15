@@ -1,0 +1,25 @@
+10. Write a Java Program to find sum of the digits of a given number. 
+
+
+
+step1:start
+step2: var sum=0, temp=0
+step3:input 3 digit no. n
+
+temp=n
+sum=n/100
+print sum
+n=temp    
+n=n%100
+     
+n=n/10
+sum=sum+n
+print sum
+n=temp    
+n=n%10
+
+sum=sum+n
+print sum
+
+step4: End
+      
